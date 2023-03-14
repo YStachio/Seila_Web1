@@ -8,7 +8,7 @@
 3VsCode
 4.GitHub
 
-!{[Logo do IFPR](https://github.com/YStachio/Seila_Web1/blob/main/Imagem.png)}
+![Logo do IFPR](https://github.com/YStachio/Seila_Web1/blob/main/Imagem.png)
 
 **By Yuri S Stachio**
 
