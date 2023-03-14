@@ -8,7 +8,7 @@
 3VsCode
 4.GitHub
 
-*
+**By Yuri S Stachio**
 
 
 > Written with [StackEdit](https://stackedit.io/).
